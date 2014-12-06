@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+one day  is unhapy
+=======
+dddccc
+>>>>>>> origin/master
+wwwwww
